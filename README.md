@@ -1,3 +1,6 @@
+CLONE for playing with
+
+
 # alexa-google-search
 
 A highly unofficial alexa skill for google search
